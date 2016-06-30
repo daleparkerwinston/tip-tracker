@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tip Tracker</string>
+    <string name="action_add">Add</string>
+    <string name="title_add_tip_activity">Add Tips</string>
+    <string name="edit_text_date">Date:</string>
+    <string name="button_save">Save</string>
+    <string name="edit_text_amount_hint">$0.00</string>
+    <string name="button_delete">Delete</string>
+
+    <string-array name="shifts_array">
+        <item>Dinner</item>
+        <item>Brunch</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_weekly_tip">WeeklyTipActivity</string>
+    <string name="paycheck_btn">View Paycheck</string>
+    <string name="take_photo">Take a photo of the paycheck</string>
+    <string name="photo_disclaimer">*Paychecks are private and only available through this app*</string>
+</resources>
